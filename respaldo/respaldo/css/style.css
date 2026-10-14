@@ -1,0 +1,43 @@
+
+       @font-face {
+       font-family: 'poppins';
+       src: url('fonts/Poppins.woff2') format('woff2');
+       font-weight: 400;
+       font-style: normal;
+}
+        header{
+            width: 900px;
+            height: 200px;
+        
+        }
+        .portada{
+            width: 890px;
+            height: 500px;
+            background-image: url("https://www.datocms-assets.com/153672/1789598022-ww_tickets_keyart_webtakeover_2560x1440px.jpg");
+            background-repeat: no-repeat;
+            background-size: 900px;
+            box-shadow: -1px -4px 5px 0px rgba(3, 4, 16, 0.75);
+
+        }
+        .cuerpo{
+            width: 902px;
+            height: 700px;
+            margin-top: -30px;
+        }
+        
+
+        h4{
+            font-family: "Poppins", sans-serif;
+            text-align: center;
+            padding: 40px;
+            color: rgb(11, 30, 125);
+        }
+
+        p {
+             font-family: "Poppins", sans-serif;
+            text-align: center;
+            color: rgb(11, 30, 125);
+            padding: 30px;
+            width: 870px;
+        }
+        
